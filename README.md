@@ -63,10 +63,3 @@ pip install gurobipy
 
 ---
 
-## Future Work
-
-- Improve master problem interpretation (dual variable usage).
-- Extend to integer master problem (branch-and-price approach).
-- Visualize the evolution of the solution over iterations.
-
-
