@@ -7,10 +7,11 @@ Column Generation
 
 If no variable has a negative reduced cost, then the current solution of the master problem is optimal.
 """
+
 """
 해결해야할 것
-"master problem의 dual만 받아와도 된다"를 이해 못 함.
-model 돌렸을 때 해를 리스트로 받아오는 법 모름.
+"master problem의 dual만 받아와도 된다"를 이해 못 함. --> 해결
+model 돌렸을 때 해를 리스트로 받아오는 법 모름. --> 해결
 
 """
 import random
