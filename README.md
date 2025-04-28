@@ -5,6 +5,8 @@
 This repository implements a Column Generation approach for solving the Cutting Stock Problem (CSP), a classical application of linear programming and combinatorial optimization.  
 Starting with a limited set of cutting patterns, the algorithm iteratively solves a restricted master problem and a subproblem to generate new patterns with negative reduced cost, gradually improving the solution.
 
+![image](https://github.com/user-attachments/assets/11762803-a59a-435e-b069-459908b68236)
+
 ---
 
 ## Problem Description
