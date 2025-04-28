@@ -65,3 +65,4 @@ pip install gurobipy
 
 ---
 
+This README were prepared with assistance from ChatGPT.
