@@ -1,8 +1,8 @@
 """
 Column Generation
-1. Relaxation으로 초기해를 만든다?
-2. 그 초기해를 가지고 Sub Problem을 푼다???????????
-3. 1-목적함수 < 0 이면 그 해를 추가...한다. 어디다 추가?
+1. Relaxation으로 초기해를 만든다.
+2. 초기해를 가지고 Sub Problem을 푼다.
+3. 1-목적함수 < 0 이면 그 해를 추가한다.
 4. 다시 master problem을 푼다.
 
 If no variable has a negative reduced cost, then the current solution of the master problem is optimal.
@@ -10,8 +10,8 @@ If no variable has a negative reduced cost, then the current solution of the mas
 
 """
 해결해야할 것
-"master problem의 dual만 받아와도 된다"를 이해 못 함. --> 해결
-model 돌렸을 때 해를 리스트로 받아오는 법 모름. --> 해결
+"master problem의 dual만 받아와도 된다" --> 해결
+model 돌렸을 때 해를 리스트로 받아오는 법 --> 해결
 
 """
 import random
